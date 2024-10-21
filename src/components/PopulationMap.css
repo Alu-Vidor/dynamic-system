@@ -1,0 +1,10 @@
+/* src/components/PopulationMap.css */
+.population-map {
+    margin-top: 20px;
+  }
+  
+  .map-svg {
+    border: 1px solid #ccc;
+    background-color: #f0f8ff;
+  }
+  

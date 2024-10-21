@@ -1,0 +1,10 @@
+/* src/components/PopulationChart.css */
+.population-chart {
+    width: 800px; /* Увеличенная ширина */
+    height: 400px; /* Увеличенная высота */
+  }
+  
+  .population-chart h2 {
+    margin-bottom: 10px;
+  }
+  

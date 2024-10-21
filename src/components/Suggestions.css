@@ -1,0 +1,27 @@
+/* src/components/Suggestions.css */
+.suggestions-container {
+    margin-top: 20px;
+  }
+  
+  .suggestion-option {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .suggestion-option ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .suggestion-option li {
+    margin: 3px 0;
+  }
+  
+  .suggestion-option button {
+    margin-top: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+  }  
