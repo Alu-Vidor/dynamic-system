@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rsu_2/static/css/main.e75b5e2d.css",
+    "main.js": "/rsu_2/static/js/main.a72e5a37.js",
+    "index.html": "/rsu_2/index.html",
+    "main.e75b5e2d.css.map": "/rsu_2/static/css/main.e75b5e2d.css.map",
+    "main.a72e5a37.js.map": "/rsu_2/static/js/main.a72e5a37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75b5e2d.css",
+    "static/js/main.a72e5a37.js"
+  ]
+}
